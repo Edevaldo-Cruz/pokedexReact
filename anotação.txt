@@ -1,0 +1,15 @@
+criando um novo projeto
+    npx create-react-app nomeDoProjeto
+
+
+nesse projeto vai ser usado o material ui e axios
+    axios   
+        npm i axios
+
+    material ui
+    
+        npm install @mui/material @emotion/react @emotion/styled
+        npm i @mui/material
+        npm install @mui/icons-material
+
+    
